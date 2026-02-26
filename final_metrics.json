@@ -1,0 +1,18 @@
+{
+    "Agent 1 (Classification)": {
+        "Metric": "Accuracy",
+        "Score": "0.9500"
+    },
+    "Agent 2 (Retrieval)": {
+        "Metric": "Precision@3 (Product Match)",
+        "Score": "0.8000"
+    },
+    "Agent 3 (Generation)": {
+        "Metric": "Groundedness (BERTScore F1)",
+        "Score": "0.7980"
+    },
+    "System Performance": {
+        "Metric": "Avg Latency (Seconds)",
+        "Score": "24.8219"
+    }
+}

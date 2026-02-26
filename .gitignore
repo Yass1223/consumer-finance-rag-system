@@ -1,0 +1,22 @@
+
+# Ignore Heavy Folders
+agent1_product_classifier/
+agent1_results/
+processed_data/
+datasets/
+chroma_db/
+vectordb/
+
+# Ignore Heavy Files
+*.zip
+*.bin
+*.pkl
+*.safetensors
+*.faiss
+
+# System
+.cursor-server
+.idea/
+.vscode/
+.lightning_studio/
+.gitattributes

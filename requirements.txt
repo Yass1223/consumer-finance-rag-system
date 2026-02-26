@@ -1,0 +1,13 @@
+torch>=2.0
+transformers
+pandas
+numpy
+scikit-learn
+sentence-transformers
+faiss-cpu
+accelerate
+bitsandbytes
+bert_score
+rouge_score
+nltk
+tqdm
